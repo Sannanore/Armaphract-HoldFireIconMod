@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.36631.11
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoldFireIconMod", "TestModForArmaphract\HoldFireIconMod.csproj", "{D76A4637-885A-4B54-8E71-87C4A686CAFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterHUD", "TestModForArmaphract\BetterHUD.csproj", "{D76A4637-885A-4B54-8E71-87C4A686CAFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

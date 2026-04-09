@@ -7,8 +7,8 @@
     <ProjectGuid>{D76A4637-885A-4B54-8E71-87C4A686CAFF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HoldFireIconMod</RootNamespace>
-    <AssemblyName>HoldFireIconMod</AssemblyName>
+    <RootNamespace>BetterHUD</RootNamespace>
+    <AssemblyName>BetterHUD</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -72,7 +72,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HoldFireIconMod.cs" />
+    <Compile Include="BetterHUD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

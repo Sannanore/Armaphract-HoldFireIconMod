@@ -2,19 +2,19 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using MelonLoader;
-using HoldFireIconMod;
+using BetterHUD;
 // ...
-[assembly: MelonInfo(typeof(HoldFireModClass), "HoldFireIcon", "0.0.1", "Sannanore")]
+[assembly: MelonInfo(typeof(HoldFireModClass), "BetterHUD", "0.1.0", "Sannanore")]
 [assembly: MelonGame("aeoridev", "armaphract")]
 
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
-[assembly: AssemblyTitle("HoldFireIconMod")]
+[assembly: AssemblyTitle("BetterHUD")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HoldFireIconMod")]
+[assembly: AssemblyProduct("BetterHUD")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

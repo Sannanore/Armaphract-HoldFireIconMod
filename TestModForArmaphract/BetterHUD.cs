@@ -11,7 +11,7 @@ using Il2CppSystem.IO;
 using Il2CppInterop.Runtime.InteropTypes.Arrays;
 using Il2CppInterop.Runtime;
 
-namespace HoldFireIconMod
+namespace BetterHUD
 {
     public class HoldFireModClass : MelonMod
     {
