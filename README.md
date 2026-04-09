@@ -9,7 +9,7 @@
 
 ---
 
-BetterHUD is a [MelonLoader](https://github.com/LavaGang/MelonLoade) mod for [Armaphract](https://aeoriii.itch.io/ironmirage) game created by [aeoridev](https://x.com/aeoridev).
+BetterHUD is a [MelonLoader](https://github.com/LavaGang/MelonLoader) mod for [Armaphract](https://aeoriii.itch.io/ironmirage) game created by [aeoridev](https://x.com/aeoridev).
 
 It expands vanilla HUD with features such as current ROE state display and-... that's all for now.
 
